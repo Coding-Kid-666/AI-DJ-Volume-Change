@@ -1,0 +1,41 @@
+.div_speed_disk, .div_vol_disk{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_speed{
+    float: left;
+}
+.div_volume{
+    float: right;
+}
+body{
+    background-size: cover;
+}
+#volume, #speed{
+    margin: 15px;
+    font-size: 24px;
+}
+.Play_Button{
+    font-size: 31px;
+    width: 160px;
+}
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 35px;
+}
+.heading_span{
+    font-size: 16px;
+    background-color: orangered;
+    width: 200px;
+    border-radius: 40px;
+    padding: 10px;
+}
+canvas{
+    border-radius: 50px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: purple;
+    background-color: green;
+    
+}
